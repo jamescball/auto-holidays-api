@@ -1,2 +1,2 @@
-# auto-holidays-api
-Automatically Fetch the most up-to-date holidays.
+# uk-dates-api
+Automatically Fetch the most accurate information for UK holidays and council dates.
